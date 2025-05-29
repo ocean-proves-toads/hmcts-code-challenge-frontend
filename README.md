@@ -4,7 +4,11 @@ This is my React Front end to the HMCTS Code Challenge Tasks Management App
 
 ## Set up
 
-Clone the Repository and run `npm install`
+You need to have node.js installed
+
+1. Clone the Repository
+2. change directory to `hmcts-code-challenge-frontend`
+3. run `npm install`
 
 
 ## Running the project
@@ -13,8 +17,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-it should automatically open [http://localhost:3000](http://localhost:3000) in your browser.
+It should automatically open [http://localhost:3000](http://localhost:3000) in your browser.
 
 
 ### `npm test`
